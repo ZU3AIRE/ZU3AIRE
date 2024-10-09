@@ -22,7 +22,7 @@ I'm a **Software Engineer** with a focus on **Microsoft .NET** and **Angular**. 
 - 🔧 **Honing Skills:** LeetCode Challenges and Solution Optimization  
 
 ## 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/zubairjameel/)
+- [LinkedIn](https://www.linkedin.com/in/ZU3AIRE/)
 - [GitHub](https://github.com/ZU3AIRE)
 
 Thanks for stopping by! 😃
