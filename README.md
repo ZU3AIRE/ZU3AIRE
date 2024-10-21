@@ -12,9 +12,15 @@ I'm a **Software Engineer** with a focus on **Microsoft .NET** and **Angular**. 
 - 
 ## Microsoft Certifications
 [![Microsoft Certified: Azure Developer Associate](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Developer%20Associate-0078D4)](https://learn.microsoft.com/api/credentials/share/en-us/zubairjamil-4782/B754DA8BC7F0173E?sharingId=FA2A4E5BF9B79163&wt.mc_id=studentamb_426962)
-
 [![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-0078D4)](https://learn.microsoft.com/api/credentials/share/en-us/zubairjamil-4782/76F035384AA53B?sharingId=FA2A4E5BF9B79163&wt.mc_id=studentamb_426962)
 
+![Zubair's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZU3AIRE&show_icons=true&theme=radical)
+
+```mermaid
+graph LR;
+    A[Azure Fundamentals] --> B[Azure Assosiate Software Developer];
+    B --> C[Azure DevOps Engineer];
+```
 
 ## 🎯 Current Focus
 - 🔍 **Learning:** AWS Cloud Practitioner, React  
