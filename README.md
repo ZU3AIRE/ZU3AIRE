@@ -1,4 +1,6 @@
 # Hi there! 👋 I'm Zubair Jamil
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ZU3AIRE/)](https://www.linkedin.com/in/ZU3AIRE/)
+[![stackoverflow](https://img.shields.io/static/v1?style=flat-square&logo=stackoverflow&label=&message=StackOverflow&color=5b5b5b&labelColor=5b5b5b)](https://stackoverflow.com/users/14047544/zubair-jamil)
 
 ## 🚀 About Me
 I'm a **Software Engineer** with a focus on **Microsoft .NET** and **Angular**. I have over 3 years of experience in designing and building robust applications. My journey also includes expertise in **Microsoft Azure**, being certified in **Azure Fundamentals (AZ-900)** and **Azure Developer (AZ-204)**. Currently, I'm gearing up for a career in **DevOps Engineering** by pursuing the **AZ-400** certification. 🎯
@@ -26,10 +28,6 @@ graph LR;
 - 🔍 **Learning:** AWS Cloud Practitioner, React  
 - 💡 **Researching:** Parallel and Distributed Computing Concepts  
 - 🔧 **Honing Skills:** LeetCode Challenges and Solution Optimization  
-
-## 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/ZU3AIRE/)
-- [GitHub](https://github.com/ZU3AIRE)
 
 Thanks for stopping by! 😃
 
