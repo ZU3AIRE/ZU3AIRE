@@ -18,11 +18,6 @@ I'm a **Software Engineer** with a focus on **Microsoft .NET** and **Angular**. 
 
 ![Zubair's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZU3AIRE&show_icons=true&theme=radical)
 
-```mermaid
-graph LR;
-    A[Azure Fundamentals] --> B[Azure Assosiate Software Developer];
-    B --> C[Azure DevOps Engineer];
-```
 
 ## 🎯 Current Focus
 - 🔍 **Learning:** AWS Cloud Practitioner, React  
