@@ -20,8 +20,8 @@ I'm a **Software Engineer** with a focus on **Microsoft .NET** and **Angular**. 
 
 
 ## 🎯 Current Focus
-- 🔍 **Learning:** AWS Cloud Practitioner, Python 🐍  
-- 💡 **Researching:** Parallel and Distributed Computing Concepts 
+- 🔍 **Learning:** Azure DevOps, NextJs  
+- 💡 **Researching:** Personal Branding 
 - 🔧 **Honing Skills:** LeetCode Challenges and Solution Optimization  
 
 Thanks for stopping by! 😃
