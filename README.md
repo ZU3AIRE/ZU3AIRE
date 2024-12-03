@@ -1,6 +1,3 @@
-# Hi there! 👋 I'm Zubair Jamil
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ZU3AIRE/)](https://www.linkedin.com/in/ZU3AIRE/)
-[![stackoverflow](https://img.shields.io/static/v1?style=flat-square&logo=stackoverflow&label=&message=StackOverflow&color=5b5b5b&labelColor=5b5b5b)](https://stackoverflow.com/users/14047544/zubair-jamil)
 # Hi there! Zubair Here 😅
 
 **Software Engineer | Problem Solver | Tech Enthusiast**  
