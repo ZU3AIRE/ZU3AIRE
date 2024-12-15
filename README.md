@@ -1,11 +1,10 @@
 # Hi there! I'm Zubair Jamil 😅  
-**Software Engineer | Problem Solver | Tech Enthusiast**  
+**Certified DevOps Engineer Expert | .NET Specialist | Angular 18**  
 
 💌 Email: [xubairjamil@gmail.com](mailto:xubairjamil@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/ZU3AIRE](https://www.linkedin.com/in/zu3aire)  
 ☣️ Stack Overflow: [https://stackoverflow.com/users/14047544/zubair-jamil](https://stackoverflow.com/users/14047544/zubair-jamil)
 
---- 
 
 ## ✨ About Me  
 
