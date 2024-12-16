@@ -11,7 +11,7 @@
 Welcome to my little corner of GitHub!
 
 🎓 I’m currently pursuing my **Bachelor's in Computer Science** at the University of the Punjab (2021–2025).  
-💼 By day, I’m a **Software Engineer** at [ArhamSoft](https://www.arhamsoft.com/), creating impactful software solutions.  
+💼 By day, I’m a **Software Engineer** at [Offshore Employee](https://offshore-employee.com/), creating impactful software solutions.  
 💡 My journey includes experience with **.NET**, **Angular**, **Azure DevOps**, and I’m diving deeper into **Next.js**!  
 🌍 Based in **Lahore, Pakistan**, I enjoy connecting with people, sharing knowledge, and tackling new challenges.  
 
