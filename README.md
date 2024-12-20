@@ -27,5 +27,6 @@ Welcome to my little corner of GitHub!
 
 
 ## 📊 GitHub Stats  
-![Zubair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZU3AIRE&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZU3AIRE&layout=compact&theme=radical)  
+
+![Zubair's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZU3AIRE\&rank_icon=percentile&bg_color=30,efca49,ba6c15\&title_color=fff\&text_color=fff)
 
