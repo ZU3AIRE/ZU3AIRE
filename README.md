@@ -1,13 +1,9 @@
-# Hi there! I'm Zubair Jamil 😅  
-**Certified DevOps Engineer Expert | .NET Specialist | Angular 18**  
+# ✨ Good Day My Gorgeous Friend ✨
+~ Zubair Jamil 
 
-💌 Email: [xubairjamil@gmail.com](mailto:xubairjamil@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/ZU3AIRE](https://www.linkedin.com/in/zu3aire)  
-☣️ Stack Overflow: [https://stackoverflow.com/users/14047544/zubair-jamil](https://stackoverflow.com/users/14047544/zubair-jamil)
-
+[![Zubair's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZU3AIRE&bg_color=fffff0&color=708090&line=3d3128&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ✨ About Me  
-
 Welcome to my little corner of GitHub!
 
 🎓 I’m currently pursuing my **Bachelor's in Computer Science** at the University of the Punjab (2021–2025).  
@@ -16,17 +12,15 @@ Welcome to my little corner of GitHub!
 🌍 Based in **Lahore, Pakistan**, I enjoy connecting with people, sharing knowledge, and tackling new challenges.  
 
 
+## 📜 Achievements / Certifications  
 
-## 📜 Certifications  
+🏅 Microsoft Certified: Azure DevOps Engineer Expert  
+🏅 Microsoft Certified: Azure Developer Associate  
+🏅 Microsoft Certified: Azure Fundamentals  
+🏅 Certified .NET Specialist & Expert (EVS)  
+🏅 Certified MAUI Developer (EVS)  
 
-🏅 **Microsoft Certified: Azure DevOps Engineer Expert**  
-🏅 **Microsoft Certified: Azure Developer Associate**  
-🏅 **Microsoft Certified: Azure Fundamentals**  
-🏅 **Certified .NET Specialist & Expert (EVS)**  
-🏅 **Certified MAUI Developer (EVS)**  
-
-
-## 📊 GitHub Stats  
-
-![Zubair's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZU3AIRE\&rank_icon=percentile&bg_color=30,efca49,ba6c15\&title_color=fff\&text_color=fff)
-
+## Let's Connect
+💌 Email: [xubairjamil@gmail.com](mailto:xubairjamil@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/ZU3AIRE](https://www.linkedin.com/in/zu3aire)  
+☣️ Stack Overflow: [https://stackoverflow.com/users/14047544/zubair-jamil](https://stackoverflow.com/users/14047544/zubair-jamil)
