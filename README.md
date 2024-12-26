@@ -1,4 +1,4 @@
-# ✨ Good Day My Gorgeous Friend ✨
+## ✨ Good Day My Gorgeous Friend ✨
 ~ Zubair Jamil 
 
 [![Zubair's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZU3AIRE&bg_color=fffff0&color=708090&line=3d3128&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
