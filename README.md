@@ -17,8 +17,8 @@ Welcome to my little corner of GitHub!
 ## 📈 Github Stats
 [![Zubair's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZU3AIRE&bg_color=fffff0&color=708090&line=3d3128&point=24292e&area=true&hide_border=true)](https://linkedin.com/in/ZU3AIRE)
 
-&nbsp;&nbsp;&nbsp;[![Zubair's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZU3AIRE&show_icons=true&title_color=fb8c00&icon_color=fb8c00)](https://linkedin.com/in/ZU3AIRE)
-&nbsp;&nbsp;&nbsp;[![](https://github-readme-streak-stats.herokuapp.com/?user=ZU3AIRE&bg=fffff0)](https://linkedin.com/in/ZU3AIRE)
+[![Zubair's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZU3AIRE&show_icons=true&title_color=fb8c00&icon_color=fb8c00)](https://linkedin.com/in/ZU3AIRE)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=ZU3AIRE&bg=fffff0)](https://linkedin.com/in/ZU3AIRE)
 
 ## Let's Connect
 💌 Email: [xubairjamil@gmail.com](mailto:xubairjamil@gmail.com)  
