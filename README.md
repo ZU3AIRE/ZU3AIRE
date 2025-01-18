@@ -14,7 +14,7 @@ Welcome to my little corner of GitHub!
 🏅 Certified .NET Specialist & Expert (EVS)  
 🏅 Certified MAUI Developer (EVS)  
 
-🎗️ Microsoft Applied Skills: Build distributed apps with .NET Aspire
+🎗️ Microsoft Applied Skills: Build distributed apps with .NET Aspire  
 
 ## 📈 Github Stats
 [![Zubair's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZU3AIRE&show_icons=true&title_color=3f99ed&icon_color=3f99ed&hide_border=false&cache_seconds=92)](https://linkedin.com/in/ZU3AIRE)  
