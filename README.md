@@ -1,4 +1,4 @@
-## Zubair Jamil ✨   
+## ✨ Zubair Jamil   
 Software Engineer | Microsoft Certified DevOps Expert | Microsoft Learn Student Ambassador
 Welcome to my little corner of GitHub!
 🎓 I’m currently pursuing my **Bachelor's in Computer Science** at the University of the Punjab (2021–2025).  
