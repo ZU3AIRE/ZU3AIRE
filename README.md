@@ -16,8 +16,12 @@ Welcome to my little corner of GitHub!
 
 🎗️ Microsoft Applied Skills: Build distributed apps with .NET Aspire  
 
+## MLSA as a Volunteer
+
+I have been actively participating as a Microsoft Learn Student Ambassador (MLSA), contributing to the community by organizing events, workshops, and mentoring fellow students. This role has allowed me to enhance my skills and network with like-minded individuals. You can view my MLSA profile [here](https://dub.sh/mlsa-profile).
+
 ## 📈 Github Stats
-[![Zubair's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZU3AIRE&show_icons=true&title_color=3f99ed&icon_color=3f99ed&hide_border=false&cache_seconds=92)](https://linkedin.com/in/ZU3AIRE)  
+[![Zubair's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZU3AIRE&show_icons=true&title_color=3f99ed&icon_color=3f99ed&hide_border=false&cache_seconds=92)](https://linkedin.com/in/ZU3AIRE)
 [![Zubair's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZU3AIRE&bg_color=d8eafb&area_color=5da9ef&area=true&title_color=0969da&line=0969da&point=0969da&color=0969da&hide_border=false)](https://linkedin.com/in/ZU3AIRE)
 
 ## Let's Connect
