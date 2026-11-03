@@ -3,7 +3,7 @@ Technical Team Lead | Microsoft Certified DevOps Expert | Microsoft Learn Studen
 Welcome to my little corner of GitHub!  
 
 🎓 I hold a **Bachelor's in Computer Science** from the University of the Punjab (2021–2025).  
-💼 I’m a **Technical Team Lead**, leading a team that builds impactful software solutions.  
+💼 I’m a **Technical Team Lead** at **ArhamSoft**, leading a team that builds impactful software solutions.  
 💡 My journey includes experience with **.NET**, **Angular**, **Azure DevOps**, and I’m diving deeper into **Next.js**!  
 🌍 Based in **Lahore, Pakistan**, I enjoy connecting with people, sharing knowledge, and tackling new challenges.  
 
